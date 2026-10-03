@@ -14,13 +14,13 @@ Os testes são realizados utilizando:
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/almeidaluciana/testes-no-react.git
 ```
 
 Acesse a pasta do projeto:
 
 ```bash
-cd nome-do-projeto
+cd testes-no-react
 ```
 
 Instale as dependências:
